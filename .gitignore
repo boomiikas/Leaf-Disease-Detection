@@ -1,0 +1,18 @@
+
+# Ignore Python virtual environment
+basee/
+# Ignore compiled libraries
+*.dll
+*.so
+*.exe
+*.h5
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore cache files
+__pycache__/
+*.pyc
+
+echo "best_potato_cnn.h5" >> .gitignore
+git add .gitignore
+git commit -m "Ignore model file to avoid GitHub 100MB limit"
