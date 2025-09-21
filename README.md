@@ -1,4 +1,4 @@
-# 🌱 Potato Leaf Disease Detection  
+# 🌱 Leaf Disease Detection  
 
 This project is a **Deep Learning-based Potato Leaf Disease Classifier** built using **TensorFlow** and deployed with **Gradio**.  
 **DEMO LINK :** https://huggingface.co/spaces/boomiikas/Leaf-Disease-Detection
