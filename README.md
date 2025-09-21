@@ -42,7 +42,7 @@ Leaf-Disease-Detection/
 Clone the repository and install dependencies:  
 
 ```bash
-git clone https://github.com/your-username/Leaf-Disease-Detection.git
+git clone https://github.com/boomiikas/Leaf-Disease-Detection.git
 cd Leaf-Disease-Detection
 pip install -r requirements.txt
 ```
