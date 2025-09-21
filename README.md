@@ -2,6 +2,7 @@
 
 This project is a **Deep Learning-based Potato Leaf Disease Classifier** built using **TensorFlow** and deployed with **Gradio**.  
 **DEMO LINK :** https://huggingface.co/spaces/boomiikas/Leaf-Disease-Detection
+**Source :** https://www.kaggle.com/datasets/emmarex/plantdisease
 
 It can classify potato leaf images into three categories:  
 - **Potato___Early_blight** 🍂  
